@@ -4,8 +4,6 @@ Extensão criada com o intuito de auxiliar *"Sales Representatives "* a organiza
 
 
 
-Essa extensão foi proposta como um desafio no curso da Scrimba ministrado pelo Per Borgen.
-
 <h3>Conceitos utilizados:</h3>
 
 <ul>
